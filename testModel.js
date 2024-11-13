@@ -1,7 +1,7 @@
 const http = require('http');
 
 const data = JSON.stringify({
-    question: ' Punishment for attack on a person'
+    question: 'what is Punishment for theft in pakistan'
 });
 
 const options = {
